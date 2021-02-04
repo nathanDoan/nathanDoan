@@ -8,3 +8,6 @@ and [Divine Html](https://www.divinehtml.com)
 
 
 I'm learning Laravel, and I love crypto
+
+
+<!-- to do - add links to social media.  Update regularly.  -->
