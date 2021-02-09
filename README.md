@@ -1,4 +1,4 @@
-<img src="ChessBros.jpg" align="right">
+<img src="ChessBros.jpg" align="right" height=500px>
 
 # Hello World!
 
