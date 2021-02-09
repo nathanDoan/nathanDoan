@@ -4,7 +4,7 @@
 
 What a fantastic meme that is...
 
-Budding web developer - Extremely enthusiastic Orthodox Christian - 21st Century Schizoid Man
+I'm a budding web developer - Extremely enthusiastic Orthodox Christian - 21st Century Schizoid Man
 
 Take a look at my web projects (no, I'm not satisfied with them either):
 [Fay's Country Kitchen](https://www.fayscountrykitchen.com "Test")
